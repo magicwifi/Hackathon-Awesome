@@ -6,12 +6,14 @@
 
 
 统一的TAAS平台实现对IOT设备的集中管理及数据可视化
+
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/all.jpg" />
 ===
 
 
 实时数据统计
+
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/data1.gif" />
 ===
@@ -40,6 +42,7 @@
 
 
 已定制各类WiFi固件形态
+
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/wifi.jpg" />
 ===
@@ -52,6 +55,7 @@
 
 
 WiFi固件编译
+
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/make2.gif" />
 ===
@@ -65,6 +69,7 @@ WiFi固件编译
 
 
 首个虚拟运营商Particle的Celluar模组
+
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/meitu2.jpg" />
 ===
@@ -75,6 +80,7 @@ WiFi固件编译
 
 
 通过物联网网关实现物联协议的协同
+
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/gateway.png" />
 ===
@@ -89,12 +95,14 @@ WiFi固件编译
 
 
 物联网网关原型
+
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/wulian.png" />
 ===
 
 
 基于传统网关改造的物联网网关
+
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/zigbee.png" />
 ===
