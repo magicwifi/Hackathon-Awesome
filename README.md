@@ -4,13 +4,10 @@
 
 ### 从IOT云服务切入，以 接入能力（Celluar/WiFi/网关）为优势，为企业与工业、商业客户与开发者提供开发、运营一站式的解决方案
 
-
-
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/all.jpg" />
 ===
 统一的TAAS平台实现对IOT设备的集中管理及数据可视化
-
 
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/data1.gif" />
@@ -19,7 +16,11 @@
 
 
 
+
+
 ## 研发TAAS平台 
+
+
 
 
 * TAAS 实现传统硬件在安全接入，集中管理配置，商业智能等方面的能力增强
@@ -27,14 +28,21 @@
 * 基于LXC虚拟化技术二次研发PAAS平台，实现IOT服务的分布式部署，资源隔离与动态扩展
 
 
+
+
 ![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/paas.png)
+
+
 
 
 * 通过异构IOT协议的适配与多源数据融合、汇聚与分析，为切入企业与工业的生产环节提供技术基础
 * 建立IOT与其他互联网平台的整合与关联策略，实现IFFTT的自学习机制，提供智能化的IOT云服务
 
 
+
 ![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/node-red.png)
+
+
 
 
 ## 定制WiFi固件与模组
@@ -46,10 +54,13 @@
 * 优化固件与平台的通信协议，实现多种传输的质量保证及恶劣网络环境下的支持
 
 
+
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/wifi.jpg" />
 ===
 已定制各类WiFi固件形态
+
+
 
 
 ===
