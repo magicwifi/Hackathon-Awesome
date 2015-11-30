@@ -5,19 +5,19 @@
 从IOT云服务切入，以 接入能力（Celluar/WiFi/网关）为优势，为企业与工业、商业客户与开发者提供开发、运营一站式的解决方案
 
 
-统一的TAAS平台实现对IOT设备的集中管理及数据可视化
 
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/all.jpg" />
 ===
 
+统一的TAAS平台实现对IOT设备的集中管理及数据可视化
 
-实时数据统计
 
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/data1.gif" />
 ===
 
+实时数据统计
 
 ## 研发TAAS平台 
 
@@ -41,11 +41,11 @@
 ## 定制WiFi固件与模组
 
 
-已定制各类WiFi固件形态
-
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/wifi.jpg" />
 ===
+
+已定制各类WiFi固件形态
 
 
 * 推出深度优化的物联网WiFi模组与固件,实现接入硬件具备最低的资源开销和功耗
@@ -54,12 +54,11 @@
 * 优化固件与平台的通信协议，实现多种传输的质量保证及恶劣网络环境下的支持
 
 
-WiFi固件编译
 
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/make2.gif" />
 ===
-
+WiFi固件编译
 
 
 ## 推出国内首个运营商级的Celluar模组与固件
