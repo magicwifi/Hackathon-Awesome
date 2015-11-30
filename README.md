@@ -15,13 +15,11 @@
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/data1.gif" />
 ===
-
 实时数据统计
 
+
+
 ## 研发TAAS平台 
-
-
-![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/paas.png)
 
 
 * TAAS 实现传统硬件在安全接入，集中管理配置，商业智能等方面的能力增强
@@ -29,22 +27,17 @@
 * 基于LXC虚拟化技术二次研发PAAS平台，实现IOT服务的分布式部署，资源隔离与动态扩展
 
 
-![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/node-red.png)
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/paas.png)
 
 
 * 通过异构IOT协议的适配与多源数据融合、汇聚与分析，为切入企业与工业的生产环节提供技术基础
 * 建立IOT与其他互联网平台的整合与关联策略，实现IFFTT的自学习机制，提供智能化的IOT云服务
 
 
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/node-red.png)
+
 
 ## 定制WiFi固件与模组
-
-
-===
-<img   src="http://7xjtgq.com1.z0.glb.clouddn.com/wifi.jpg" />
-===
-
-已定制各类WiFi固件形态
 
 
 * 推出深度优化的物联网WiFi模组与固件,实现接入硬件具备最低的资源开销和功耗
@@ -52,6 +45,11 @@
 * 优化固件连接协议（smartconfig/AirKiss)等，实现IOT设备一键接入无线网络
 * 优化固件与平台的通信协议，实现多种传输的质量保证及恶劣网络环境下的支持
 
+
+===
+<img   src="http://7xjtgq.com1.z0.glb.clouddn.com/wifi.jpg" />
+===
+已定制各类WiFi固件形态
 
 
 ===
@@ -63,47 +61,41 @@ WiFi固件编译
 ## 推出国内首个运营商级的Celluar模组与固件
 
 
-与芯片公司进行深度合作，推出国内首个运营商级的Celluar模组与固件，实现将更多硬件设备纳入物联网，并加载TAAS服务 
+### 与芯片公司进行深度合作，推出国内首个运营商级的Celluar模组与固件，实现将更多硬件设备纳入物联网，并加载TAAS服务 
 
-
-首个虚拟运营商Particle的Celluar模组
 
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/meitu2.jpg" />
 ===
-
+首个虚拟运营商Particle的Celluar模组
 
 
 ## 定制物联网网关
 
 
-通过物联网网关实现物联协议的协同
-
-===
-<img   src="http://7xjtgq.com1.z0.glb.clouddn.com/gateway.png" />
-===
-
-
-实现IOT能力提升
+### 实现IOT能力提升
 
 * WiFi: 加密云端通信数据，提升数据传输安全性
 * BLE: 紧随业界趋势，建立双向数据传输通道
 * Zigbee: 兼容1888协议，打造低成本控制中心
 
 
+===
+<img   src="http://7xjtgq.com1.z0.glb.clouddn.com/gateway.png" />
+===
+通过物联网网关实现物联协议的协同
 
-物联网网关原型
 
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/wulian.png" />
 ===
+物联网网关原型
 
-
-基于传统网关改造的物联网网关
 
 ===
 <img   src="http://7xjtgq.com1.z0.glb.clouddn.com/zigbee.png" />
 ===
+基于传统网关改造的物联网网关
 
 
 
