@@ -103,7 +103,7 @@
 
 ### 通过物联网网关实现物联协议的协同
 
-![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/gateway.png")
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/gateway.png)
 
 
 <br/>
@@ -111,7 +111,7 @@
 
 ### 物联网网关原型
 
-![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/wulian.png")
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/wulian.png)
 
 
 <br/>
@@ -119,7 +119,7 @@
 
 ### 基于传统网关改造的物联网网关
 
-![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/zigbee.png")
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/zigbee.png)
 
 
 
