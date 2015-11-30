@@ -123,14 +123,17 @@
 
 
 
+<br/>
 
-[DEMO][1]
+<br/>
+
+[点击进入工业篇][1]
 
 
 
 ----------
 
 
-[1]: http://117.34.78.204/ivmartel/viewers/static/index.html?input=http%3A%2F%2Fx.babymri.org%2F%3Fkey%3D53320924%26key%3D53321068%26key%3D53322843%26key%3D53322987%26key%3D53323131&dwvReplaceMode=void
+[1]: https://github.com/magicwifi/factory-os/blob/master/README.md
 
 
