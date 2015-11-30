@@ -10,12 +10,13 @@
 
 ![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/all.jpg)
 
-
-
+<br/>
 
 ### 实时数据统计
 
 ![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/data1.gif)
+
+<br/>
 
 
 
@@ -23,19 +24,16 @@
 
 ## 研发TAAS平台 
 
-
-
-
 * TAAS 实现传统硬件在安全接入，集中管理配置，商业智能等方面的能力增强
 * 基于RSA设备认证和云端认证技术，提供顶级物联网安全保证 
 * 基于LXC虚拟化技术二次研发PAAS平台，实现IOT服务的分布式部署，资源隔离与动态扩展
 
-
-
+<br/>
 
 ![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/paas.png)
 
 
+<br/>
 
 
 * 通过异构IOT协议的适配与多源数据融合、汇聚与分析，为切入企业与工业的生产环节提供技术基础
@@ -43,8 +41,12 @@
 
 
 
+<br/>
+
 ![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/node-red.png)
 
+
+<br/>
 
 
 
@@ -57,31 +59,34 @@
 * 优化固件与平台的通信协议，实现多种传输的质量保证及恶劣网络环境下的支持
 
 
+<br/>
 
-===
-<img   src="http://7xjtgq.com1.z0.glb.clouddn.com/wifi.jpg" />
-===
-已定制各类WiFi固件形态
+###已定制各类WiFi固件形态
 
-
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/wifi.jpg)
 
 
-===
-<img   src="http://7xjtgq.com1.z0.glb.clouddn.com/make2.gif" />
-===
-WiFi固件编译
+<br/>
 
+### WiFi固件编译
+
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/make2.gif)
+
+
+<br/>
 
 ## 推出国内首个运营商级的Celluar模组与固件
-
 
 ### 与芯片公司进行深度合作，推出国内首个运营商级的Celluar模组与固件，实现将更多硬件设备纳入物联网，并加载TAAS服务 
 
 
-===
-<img   src="http://7xjtgq.com1.z0.glb.clouddn.com/meitu2.jpg" />
-===
-首个虚拟运营商Particle的Celluar模组
+<br/>
+
+### 首个虚拟运营商Particle的Celluar模组
+
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/meitu2.jpg)
+
+<br/>
 
 
 ## 定制物联网网关
@@ -94,22 +99,27 @@ WiFi固件编译
 * Zigbee: 兼容1888协议，打造低成本控制中心
 
 
-===
-<img   src="http://7xjtgq.com1.z0.glb.clouddn.com/gateway.png" />
-===
-通过物联网网关实现物联协议的协同
+<br/>
+
+### 通过物联网网关实现物联协议的协同
+
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/gateway.png")
 
 
-===
-<img   src="http://7xjtgq.com1.z0.glb.clouddn.com/wulian.png" />
-===
-物联网网关原型
+<br/>
 
 
-===
-<img   src="http://7xjtgq.com1.z0.glb.clouddn.com/zigbee.png" />
-===
-基于传统网关改造的物联网网关
+### 物联网网关原型
+
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/wulian.png")
+
+
+<br/>
+
+
+### 基于传统网关改造的物联网网关
+
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/zigbee.png")
 
 
 
