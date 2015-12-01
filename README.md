@@ -75,7 +75,7 @@
 <br/>
 
 ### 控制台外观DEMO
-![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/factory_os.png)
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/factory_os.jpg)
 
 
 <br/>
