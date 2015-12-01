@@ -1,3 +1,25 @@
+# 业界趋势(物联网与云计算紧密绑定)
+
+### 亚马逊在原有云计算服务基础上进行延伸，于2015年10月8日发布了AWS IOT平台
+
+
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/aws.jpg)
+
+
+### Google于2015年5月发布物联网操作系统Brillo，实现IOT系统与Google云服务紧密捆绑
+
+
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/brillo-pin.jpg)
+
+
+
+### Intel于去年发布了物联网关的方案，建立异构设备通往云端服务的统一通道
+### 亚马逊的IOT平台同时发布了面向物联网关的服务
+
+
+![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/gateway.jpg)
+
+
 # 我们的工作
 
 ## 1. 发布统一OS/固件，适配异构终端/芯片
@@ -130,7 +152,7 @@
 <br/>
 
 
-##7. 下一步工作 
+# 下一步工作 
 
 * 引领企业工业物联网向TAAS模式的进化
 * 实现TAAS服务的构建与商业模式的创新
