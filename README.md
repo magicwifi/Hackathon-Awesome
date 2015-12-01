@@ -70,35 +70,6 @@
 
 ![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/all.jpg)
 
-## 2. 定制物联网网关，实现IOT能力提升 
-
-### 已开发的物联网网关原型
-
-![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/wulian.png)
-
-
-
-## 3. 物联传输协议优化与改进
-
-* 从安全性，质量保证，传输效率等的方面对物联网传输协议（MQTT/Coap）进行全面优化与提升，为切入企业与工业的生产环节提供技术基础
-* 从终端到网关，网关到平台，终端到网关等三个方面发布新一代物联网协议标准
-
-
-
-<br/>
-
-## 4. 研发支持异构IOT设备的物联网PAAS平台(TAAS)
-
-
-* TAAS助助力传统硬件实现在安全接入，集中管理配置，商业智能等方面的能力增强
-* 基于RSA设备认证和云端认证技术，提供顶级物联网安全保证 
-* 基于LXC虚拟化技术二次研发PAAS平台，实现IOT服务的分布式部署，资源隔离与动态扩展
-
-### 统一的TAAS平台实现对异构IOT设备的集中管理
-
-![gpstrackerandroid](http://7xjtgq.com1.z0.glb.clouddn.com/all.jpg)
-
-<br/>
 
 ### 实时数据统计及数据可视化
 
